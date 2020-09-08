@@ -2,7 +2,7 @@
 title: "Report on Gun Murders"
 author: "adi297"
 date: "08/09/2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
